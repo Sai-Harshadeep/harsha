@@ -1,4 +1,4 @@
 # harsha
 This is my first Git Repositary
 <br>
-Author-Harshadeep
+Author-Sai Harshadeep
